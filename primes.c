@@ -1,3 +1,4 @@
+//find primes between given range only using arrays and loops
 #include <stdio.h>
 #include <stdbool.h>
 int main()
